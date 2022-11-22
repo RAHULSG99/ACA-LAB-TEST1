@@ -1,0 +1,4 @@
+Dependencies for Project 'ACATEST1', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\palindrome.s)(0x637D1116)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 529"--list .\listings\palindrome.lst --xref -o .\objects\palindrome.o --depend .\objects\palindrome.d)
+F (.\Armstrong.s)(0x637D279E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 529"--list .\listings\armstrong.lst --xref -o .\objects\armstrong.o --depend .\objects\armstrong.d)
